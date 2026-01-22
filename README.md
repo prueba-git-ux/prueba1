@@ -1,4 +1,4 @@
-# prueba# GitHub Basics – Essential Git Commands
+# GitHub Basics – Essential Git Commands
 
 This document introduces the **basic Git commands** you need to start working with GitHub.  
 It is designed for beginners who are taking their first steps into version control.
